@@ -2,6 +2,7 @@
 
 Steps 
 1 Create an AWS account
+
 2 Search for 'S3' in the management console
 3 Click on the S3 console
 4 Create a bucket
