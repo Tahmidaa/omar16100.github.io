@@ -37,7 +37,11 @@ Replace BUCKET with your own bucket name.
 10 Upload your files for the static website (clone/copy the files oof this directory and upload for testing purposes)
 
 
-reference 
 
-https://github.com/n5hossai/naymulhulk.github.io
+
+references
+
+ - https://github.com/n5hossai/naymulhulk.github.io
+ 
+ - https://www.qwiklabs.com/focuses/400?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3761935
 
